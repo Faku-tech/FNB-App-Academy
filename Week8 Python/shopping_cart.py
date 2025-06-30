@@ -26,4 +26,3 @@ for price in prices:
 
 print("\n")
 print(f"Your total is: R{total}")
-print("Yandisa")
